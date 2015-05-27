@@ -183,7 +183,19 @@ var _ = {
       }
     }
     return collection;
-  }
+  },
+  //promotes the healthy discussion of "vowelmovements" by society for increased awareness and well-being
+  var vowelMovements = function(){
+    var vowelMovement = false;
+    if (!vowelMovement){
+      return consanantipation:
+    }
+  };
+  
 };
+
+
+
+
 
   
