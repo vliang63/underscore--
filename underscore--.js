@@ -183,7 +183,18 @@ var _ = {
       }
     }
     return collection;
-  }
+  },
+   //promotes the healthy discussion of "vowelmovements" by society for increased awareness and well-being
++  var vowelMovements = function(){
++     var vowelMovement = prompt('True or False? You have regular "vowel movements."');
++     if (!vowelMovement){
++      alert('consanantipation'):
++     }else{
+       alert('don\'t forget to share this fact with the world!');
+      }
+    }
++ };
++  
 };
 
   
